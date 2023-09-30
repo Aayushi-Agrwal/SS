@@ -18,3 +18,8 @@ This website is built using the following technologies:
 ---
 
 Thank you for visiting Prof. Sudhakar Subudhi's personal website repository.
+
+## Live Demo
+Check out the live demo [here](https://main--quiet-rugelach-b8b5c0.netlify.app/).
+
+Feel free to explore, modify, and use this to-do list app for your own projects. Happy coding!
